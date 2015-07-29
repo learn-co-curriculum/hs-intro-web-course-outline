@@ -1,9 +1,4 @@
----
-tags: course outline, kids, web, intro
-language: ruby
-level: 2
-type: course outline
----
+
 
 ##Intro to Web Design - Course Outline
 This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
